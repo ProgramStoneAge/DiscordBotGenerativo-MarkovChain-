@@ -1,4 +1,4 @@
-# MeuBotGenerativo — Bot de Discord (ML.NET + Markov + Gemini)
+# Bot Generativo para o Discord (ML.NET + Markov + Gemini)
 
 Bot híbrido que combina **classificação de intenção com ML.NET**, **geração de texto por Cadeias de Markov** e, para perguntas, um **fallback com Google Gemini**. O histórico é persistido em **SQLite** e serve tanto para treinar as personalidades (Markov) quanto para extrair palavras‑chave (TF‑IDF) e melhorar as respostas.
 
